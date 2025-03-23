@@ -1,1 +1,1 @@
-# Wearable_health-Senssor
+# Wearable_health-Sensor
